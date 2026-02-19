@@ -1,7 +1,6 @@
-wave
-numpy
-python_speech_features
-wavio
-opencv-python
-opencv-contrib-python
-scipy
+numpy==2.4.2
+python_speech_features==0.6
+wavio==0.0.9
+opencv-python==4.13.0.92
+opencv-contrib-python==4.13.0.92
+scipy==1.17.0
